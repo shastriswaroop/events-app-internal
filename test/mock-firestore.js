@@ -1,5 +1,5 @@
 
-const changeMe = { title: 'a firestore event', id: 1, description: 'something really cool', location: 'Joes pizza', likes: 0 };
+const changeMe = { title: 'a firestore event', id: 1, description: 'something really cool!!!!!!!', location: 'Joes pizza', likes: 0 };
 
 // mock events data - for a real solution this data should be coming 
 // from a cloud data store
